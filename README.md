@@ -7,6 +7,15 @@
 
 Starter template for [Create React App](https://create-react-app.dev).
 
+### Table of contents
+* [Start Template](#start-template)
+* [What's included](#whats-included)
+* [Customizing the Template Checklist](#customizing-the-template-checklist)
+* [Developer](#developer)
+* [Show your support](#show-your-support)
+* [Contributing](#contributing)
+* [Copyright and license](#copyright-and-license)
+
 ## Start Template
 
 ### 1. Open the Terminal and Clone the Repo
@@ -77,7 +86,7 @@ Give a ⭐️ Star to this project!
 
 ## Contributing
 
-I'd love to learn from other developers. Feel free to DM me on GitHub or my social media with your feedbacks and suggestions. 🧡
+I'd love to learn from other developers. Please feel free to DM me on GitHub or my social media with your feedbacks and suggestions. 🧡
 
 ## Copyright and license
 
