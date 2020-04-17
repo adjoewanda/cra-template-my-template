@@ -1,16 +1,24 @@
 {
   "name": "cra-template-my-template",
-  "version": "1.0.0",
-  "description": "React custom template",
-  "main": "index.js",
+  "private": true,
+  "version": "0.1.0",
+  "main": "template.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react",
-    "custom",
+    "create-react-app",
     "template"
   ],
+  "description": "React custom template",
   "author": "Anthony Djoewanda",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
